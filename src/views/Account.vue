@@ -8,8 +8,7 @@
 
 <script>
 export default {
-  name: "Account",
-  components: {}
+  name: "Account"
 };
 </script>
 
